@@ -35,3 +35,5 @@
 /.virtualenvs
 /.TelegramDesktop
 /bin
+/.pki
+/.AndroidStudio2.2
