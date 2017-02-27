@@ -1,3 +1,7 @@
 [user]
-	email = mahdyb@gmail.com
 	name = Mahdy Beygi
+	email = mahdy@beygi.org
+[core]
+	excludesfile = /home/mahdy/.gitignore
+[color]
+	ui = true
