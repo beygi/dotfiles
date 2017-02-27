@@ -1,0 +1,29 @@
+"*":
+  "activate-power-mode":
+    particles:
+      size: {}
+      spawnCount: {}
+      totalCount: {}
+    screenShake:
+      enabled: false
+  "atom-beautify":
+    general:
+      _analyticsUserId: "6a8d55b9-b443-478f-9891-5f357f673f08"
+    php:
+      default_beautifier: "PHPCBF"
+  core: {}
+  editor:
+    fontSize: 1
+    invisibles: {}
+    showInvisibles: true
+    tabLength: 4
+    tabType: "soft"
+  emmet: {}
+  "highlight-selected": {}
+  minimap:
+    plugins:
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  pigments: {}
+  welcome:
+    showOnStartup: false
