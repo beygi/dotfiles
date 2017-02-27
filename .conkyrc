@@ -33,7 +33,7 @@ own_window_hints="undecorated,below,sticky,skip_taskbar,skip_pager",
 border_inner_margin=0,
 border_outer_margin=0,
 --alignment="middle_middle",
---own_window_argb_visual=true,
+own_window_argb_visual=true,
 --own_window_argb_value=0,
 
 
