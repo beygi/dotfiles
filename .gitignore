@@ -32,3 +32,6 @@
 /.atom/projects.cson
 /.atom/nohup.out
 /.atom/.apm/
+/.virtualenvs
+/.TelegramDesktop
+/bin
