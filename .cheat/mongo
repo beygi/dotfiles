@@ -1,0 +1,11 @@
+to export a collection to a tar.gz:
+mongoexport -d dataBaseName -c collectionName | gzip > monDB.gz
+
+to import collection :
+zcat monDB.gz | mongoimport -d dataBaseName -c collectionName
+
+to export all collections of db
+mongodump -d dataBaseName -o /path/to/backup/dir
+
+to import from mongo dump
+mongorestore /path/to/files/

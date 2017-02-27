@@ -1,0 +1,2 @@
+to run a web server on a directory accessable from outside from 8080 port
+python2 -m SimpleHTTPServer 8080
