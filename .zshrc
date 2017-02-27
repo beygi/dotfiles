@@ -37,6 +37,7 @@ export TERM="xterm-256color"
 export DEFAULT_USER="mahdy"
 export WORKON_HOME="/home/mahdy/.virtualenvs"
 export VIRTUALENV_PYTHON=`command -v python3`
+source /usr/local/bin/virtualenvwrapper.sh
 ZSH_THEME="powerlevel9k/powerlevel9k"
 #ZSH_THEME="bullet-train"
 
@@ -113,7 +114,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias gedit="xed"
 eval $(thefuck --alias)
 # You can use whatever you want as an alias, like for Mondays:
 eval "$(thefuck --alias fuck)"
