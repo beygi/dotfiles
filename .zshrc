@@ -85,7 +85,7 @@ plugins=(git pip sudo autojump command-not-found virtualenvwrapper)
 
 # User configuration
 
-export PATH="/home/mahdy/.rbenv/shims:/home/mahdy/.rbenv/bin:/home/mahdy/bin/android-sdk-linux/platform-tools:/home/mahdy/bin/android-sdk-linux/tools:/home/mahdy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+export PATH="/home/mahdy/.rbenv/shims:/home/mahdy/.rbenv/bin:/home/mahdy/bin/android-sdk-linux/platform-tools:/home/mahdy/bin/android-sdk-linux/tools:/home/mahdy/bin:/home/mahdy/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
