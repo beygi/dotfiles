@@ -12,7 +12,14 @@
     php:
       default_beautifier: "PHPCBF"
   core:
+    disabledPackages: [
+      "activate-power-mode"
+    ]
     telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "colorblind-wombat-dark-syntax"
+    ]
   editor:
     fontSize: 1
     invisibles: {}
