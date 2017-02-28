@@ -38,3 +38,7 @@
 /.pki
 /.AndroidStudio2.2
 /.gconf/apps/guake
+/Projects
+/.npm
+/.nv
+/.nvidia-settings-rc
