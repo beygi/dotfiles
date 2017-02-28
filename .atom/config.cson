@@ -11,7 +11,8 @@
       _analyticsUserId: "6a8d55b9-b443-478f-9891-5f357f673f08"
     php:
       default_beautifier: "PHPCBF"
-  core: {}
+  core:
+    telemetryConsent: "limited"
   editor:
     fontSize: 1
     invisibles: {}
