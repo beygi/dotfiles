@@ -9,7 +9,7 @@
 	<entry name="latitude" mtime="1488244035" type="string">
 		<stringvalue>32.6546</stringvalue>
 	</entry>
-	<entry name="colortemp" mtime="1488445957" type="string">
+	<entry name="colortemp" mtime="1488715748" type="string">
 		<stringvalue>5000</stringvalue>
 	</entry>
 	<entry name="autostart" mtime="1488285206" type="bool" value="true"/>
