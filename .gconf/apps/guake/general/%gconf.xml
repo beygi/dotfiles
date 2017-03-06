@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="window_height_f" mtime="1488810411" type="float" value="66.145799999999994"/>
-	<entry name="window_height" mtime="1488810411" type="int" value="66"/>
+	<entry name="window_height_f" mtime="1488815028" type="float" value="76.953125"/>
+	<entry name="window_height" mtime="1488815028" type="int" value="76"/>
 	<entry name="use_audible_bell" mtime="1488238864" type="bool" value="false"/>
 	<entry name="compat_delete" mtime="1488810411" type="string">
 		<stringvalue>delete-sequence</stringvalue>
