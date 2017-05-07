@@ -5,4 +5,6 @@ sudo pip install virtualenvwrapper
 sudo apt install thefuck
 sudo apt install conky-all
 sudo apt install jq
-sudo apt install autojump
+sudo apt install autojump zsh
+sudo apt install libfribidi-bin
+chsh -s /usr/bin/zsh
