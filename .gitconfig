@@ -5,3 +5,5 @@
 	excludesfile = /home/mahdy/.gitignore
 [color]
 	ui = true
+[cola]
+	spellcheck = false

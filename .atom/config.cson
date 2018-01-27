@@ -4,16 +4,26 @@
       size: {}
       spawnCount: {}
       totalCount: {}
+    playAudio:
+      audioclip: "../audioclips/typewriter.wav"
+      enabled: true
+    plugins:
+      playAudio: true
+      screenShake: true
     screenShake:
       enabled: false
   "atom-beautify":
     general:
       _analyticsUserId: "6a8d55b9-b443-478f-9891-5f357f673f08"
+    js:
+      beautify_on_save: true
+      default_beautifier: "ESLint Fixer"
     php:
       default_beautifier: "PHPCBF"
   core:
     disabledPackages: [
       "activate-power-mode"
+      "react"
     ]
     telemetryConsent: "limited"
     themes: [
@@ -21,12 +31,14 @@
       "colorblind-wombat-dark-syntax"
     ]
   editor:
-    fontSize: 1
     invisibles: {}
     showInvisibles: true
     tabLength: 4
     tabType: "soft"
   emmet: {}
+  "exception-reporting":
+    userId: "a51a93b8-a807-4f6d-9a63-8bd5346e8453"
+  "git-diff": {}
   "highlight-selected": {}
   minimap:
     plugins:
