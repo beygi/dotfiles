@@ -1,10 +1,6 @@
 #!/bin/bash
-sudo apt install python-pip
-sudo pip install jdate
-sudo pip install virtualenvwrapper
-sudo apt install thefuck
-sudo apt install conky-all
-sudo apt install jq
-sudo apt install autojump zsh
-sudo apt install libfribidi-bin
+sudo apt install python-pip autojump zsh libfribidi-bin jq
+sudo pip install jdate virtualenvwrapper
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 chsh -s /usr/bin/zsh
