@@ -40,6 +40,7 @@
     userId: "a51a93b8-a807-4f6d-9a63-8bd5346e8453"
   "git-diff": {}
   "highlight-selected": {}
+  "linter-ui-default": {}
   minimap:
     plugins:
       pigments: true

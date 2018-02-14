@@ -3,7 +3,7 @@
 	<entry name="abbreviate_tab_names" mtime="1516781326" type="bool" value="false"/>
 	<entry name="open_tab_cwd" mtime="1516781326" type="bool" value="true"/>
 	<entry name="window_height_f" mtime="1517078362" type="float" value="88.541666666666671"/>
-	<entry name="window_height" mtime="1517078362" type="int" value="88"/>
+	<entry name="window_height" mtime="1517829682" type="int" value="86"/>
 	<entry name="use_audible_bell" mtime="1488238864" type="bool" value="false"/>
 	<entry name="compat_delete" mtime="1516781326" type="string">
 		<stringvalue>delete-sequence</stringvalue>
