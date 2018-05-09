@@ -2,8 +2,8 @@
 <gconf>
 	<entry name="abbreviate_tab_names" mtime="1516781326" type="bool" value="false"/>
 	<entry name="open_tab_cwd" mtime="1516781326" type="bool" value="true"/>
-	<entry name="window_height_f" mtime="1517078362" type="float" value="88.541666666666671"/>
-	<entry name="window_height" mtime="1517829682" type="int" value="86"/>
+	<entry name="window_height_f" mtime="1523710574" type="float" value="90.092592592592595"/>
+	<entry name="window_height" mtime="1523710574" type="int" value="90"/>
 	<entry name="use_audible_bell" mtime="1488238864" type="bool" value="false"/>
 	<entry name="compat_delete" mtime="1516781326" type="string">
 		<stringvalue>delete-sequence</stringvalue>
@@ -25,7 +25,7 @@
 	<entry name="window_halignment" mtime="1516781326" type="int" value="0"/>
 	<entry name="window_width_f" mtime="1516781326" type="float" value="100"/>
 	<entry name="window_width" mtime="1516781326" type="int" value="100"/>
-	<entry name="window_losefocus" mtime="1516781326" type="bool" value="false"/>
+	<entry name="window_losefocus" mtime="1520326584" type="bool" value="true"/>
 	<entry name="prompt_on_close_tab" mtime="1516781326" type="int" value="0"/>
 	<entry name="prompt_on_quit" mtime="1516781326" type="bool" value="true"/>
 	<entry name="use_popup" mtime="1488241759" type="bool" value="false"/>

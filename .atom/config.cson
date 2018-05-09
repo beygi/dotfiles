@@ -24,13 +24,16 @@
     disabledPackages: [
       "activate-power-mode"
       "react"
+      "linter-eslint"
     ]
     telemetryConsent: "limited"
     themes: [
-      "one-dark-ui"
-      "colorblind-wombat-dark-syntax"
+      "atom-dark-ui"
+      "atom-dark-syntax"
     ]
   editor:
+    fontFamily: "ubuntu"
+    fontSize: 16
     invisibles: {}
     showInvisibles: true
     tabLength: 4
@@ -40,11 +43,15 @@
     userId: "a51a93b8-a807-4f6d-9a63-8bd5346e8453"
   "git-diff": {}
   "highlight-selected": {}
+  "linter-tslint":
+    useLocalTslint: false
   "linter-ui-default": {}
   minimap:
     plugins:
       pigments: true
       pigmentsDecorationsZIndex: 0
+  "one-dark-ui":
+    fontSize: 14
   pigments: {}
   welcome:
     showOnStartup: false
