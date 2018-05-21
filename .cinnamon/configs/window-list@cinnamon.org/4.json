@@ -3,6 +3,12 @@
         "type": "section",
         "description": "Behavior"
     },
+    "show-all-workspaces": {
+        "type": "switch",
+        "default": false,
+        "description": "Show windows from all workspaces",
+        "value": false
+    },
     "enable-alerts": {
         "type": "switch",
         "default": true,
@@ -44,5 +50,5 @@
         "description": "Show window thumbnails on hover",
         "value": true
     },
-    "__md5__": "35771229b9f59d97eddee2c0bc8ebb2c"
+    "__md5__": "38b6afe9c09acf6dfa31f0e238bdf09b"
 }

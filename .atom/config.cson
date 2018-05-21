@@ -24,7 +24,7 @@
     disabledPackages: [
       "activate-power-mode"
       "react"
-      "linter-eslint"
+      "whitespace"
     ]
     telemetryConsent: "limited"
     themes: [
@@ -33,19 +33,19 @@
     ]
   editor:
     fontFamily: "ubuntu"
-    fontSize: 16
     invisibles: {}
     showInvisibles: true
     tabLength: 4
-    tabType: "soft"
   emmet: {}
   "exception-reporting":
     userId: "a51a93b8-a807-4f6d-9a63-8bd5346e8453"
   "git-diff": {}
   "highlight-selected": {}
   "linter-tslint":
-    useLocalTslint: false
-  "linter-ui-default": {}
+    fixOnSave: true
+  "linter-ui-default":
+    panelHeight: 167.235595703125
+    showPanel: true
   minimap:
     plugins:
       pigments: true

@@ -5,7 +5,7 @@
     },
     "peek-at-desktop": {
         "type": "switch",
-        "default": true,
+        "default": false,
         "description": "Peek at the desktop on hover",
         "tooltip": "Peek at the desktop when hovering the applet",
         "value": true
@@ -44,5 +44,5 @@
         "tooltip": "Change the opacity of windows when peeking at the desktop",
         "value": 10
     },
-    "__md5__": "caec33cbaeef298132a4606c9a14e11d"
+    "__md5__": "07f5e42ae16fd891dd4356a1e84920ca"
 }
