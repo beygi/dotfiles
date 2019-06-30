@@ -8,7 +8,7 @@
         "default": false,
         "description": "Peek at the desktop on hover",
         "tooltip": "Peek at the desktop when hovering the applet",
-        "value": true
+        "value": false
     },
     "peek-blur": {
         "type": "switch",

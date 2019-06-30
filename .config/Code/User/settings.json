@@ -1,0 +1,16 @@
+{
+    "git.confirmSync": false,
+    "window.zoomLevel": 0,
+    "emmet.triggerExpansionOnTab": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "explorer.confirmDelete": false,
+    "tslint.alwaysShowStatus": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.tslint": true
+    },
+    "git.enableSmartCommit": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true
+}

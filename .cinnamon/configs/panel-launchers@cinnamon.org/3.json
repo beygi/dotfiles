@@ -11,9 +11,9 @@
             "nemo.desktop"
         ],
         "value": [
-            "gnome-terminal.desktop",
             "nemo.desktop",
-            "firefox.desktop"
+            "firefox.desktop",
+            "gnome-terminal.desktop"
         ]
     },
     "allow-dragging": {

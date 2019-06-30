@@ -60,3 +60,9 @@
 /.node_repl_history
 /.pam_environment
 /GAME
+/webui-aria2
+/snap
+/Telegram/
+/.pm2
+/.gftp
+/.electrum

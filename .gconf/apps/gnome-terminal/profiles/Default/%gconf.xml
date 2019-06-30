@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="font" mtime="1555919980" type="string">
+		<stringvalue>Ubuntu Mono derivative Powerline 11</stringvalue>
+	</entry>
+</gconf>

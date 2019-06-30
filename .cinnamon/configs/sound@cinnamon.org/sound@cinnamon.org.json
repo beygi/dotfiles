@@ -28,7 +28,7 @@
             "banshee",
             "vlc",
             "rhythmbox",
-            "kde4-amarok",
+            "org.kde.amarok",
             "smplayer"
         ]
     },

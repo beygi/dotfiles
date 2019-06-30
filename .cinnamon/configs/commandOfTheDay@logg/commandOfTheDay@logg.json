@@ -1,0 +1,21 @@
+{
+    "theCommand": {
+        "default": "fortune",
+        "type": "filechooser",
+        "description": "Command:",
+        "allow-none": false,
+        "select-dir": false,
+        "value": "fortune"
+    },
+    "delay": {
+        "default": 1440,
+        "type": "spinbutton",
+        "min": 1,
+        "max": 1440,
+        "description": "Update every:",
+        "units": "minutes",
+        "step": 10,
+        "value": 1440
+    },
+    "__md5__": "c2120a0a5ea53f3a1c6be26d507645b6"
+}
