@@ -12,5 +12,6 @@
     },
     "git.enableSmartCommit": true,
     "eslint.autoFixOnSave": true,
-    "eslint.alwaysShowStatus": true
+    "eslint.alwaysShowStatus": true,
+    "python.jediEnabled": false
 }
