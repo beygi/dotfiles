@@ -1,0 +1,47 @@
+{
+	"name": "vscode-nginx",
+	"displayName": "NGINX Configuration",
+	"description": "Syntax highlighting for NGINX configuration files",
+	"version": "0.7.1",
+	"publisher": "william-voyek",
+	"engines": {
+		"vscode": "^1.32.0"
+	},
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/william-voyek/vscode-nginx"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "nginx",
+				"aliases": [
+					"NGINX Conf",
+					"nginx"
+				],
+				"extensions": [
+					"nginx.conf",
+					".conf",
+					".nginx"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "nginx",
+				"scopeName": "source.nginx",
+				"path": "./syntaxes/nginx.tmLanguage.json"
+			}
+		]
+	},
+	"icon": "nginx_logo.png",
+	"__metadata": {
+		"id": "414b2873-c80e-4dc6-9031-bd185cfb3944",
+		"publisherId": "7322231b-f77e-47c9-a262-d0fd0b20cc5d",
+		"publisherDisplayName": "William Voyek"
+	}
+}
